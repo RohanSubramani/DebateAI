@@ -43,4 +43,4 @@ response = client.chat.completions.create(
 
 print(f"response={response}")
 print(f"response.choices={response.choices}")
-print(f"response.choices[0].message={response.choices[0].message}")
+print(f"response.choices[0].message={response.choices[0].message}") 
