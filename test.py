@@ -3,9 +3,7 @@
 
 from transformers import pipeline
 from openai import OpenAI
-# In terminal, or bashrc: export OPENAI_API_KEY='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'
-# or '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' or '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'
-# or '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' or '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'
+# In terminal, or bashrc: export OPENAI_API_KEY='your-open-ai-key'
 
 # import torch
 # print(torch.__version__)
