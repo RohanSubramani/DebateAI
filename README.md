@@ -1,5 +1,9 @@
 # DebateAI
 
+## Usage
+
+Set up an OpenAI API key (we suggest asking ChatGPT for help with this), make sure you have a nonzero credit balance with OpenAI, then run "python debate.py" in terminal to start generating debates! You'll be prompted to describe what you want from the debate. The debate will be printed in the terminal and saved to debates.txt.
+
 ## Inspiration
 
 Philosophical and political thought is often taught by putting famous thinkers from different points in history in conversation with each other. We've enjoyed learning in this style and wanted to make it easier for people to use LLMs to generate debates about all kinds of topics as an educational resource.
